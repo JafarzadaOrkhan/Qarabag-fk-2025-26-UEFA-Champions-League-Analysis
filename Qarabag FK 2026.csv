@@ -1,0 +1,9 @@
+﻿match_id,club,season,competition,match_date,opponent,home_away,goals_scored,goals_conceded,result,points,attendance
+1,Qarabag FK,2025/26,Champions League,9/17/2025,Benfica,Away,3,2,Win,3,52000
+2,Qarabag FK,2025/26,Champions League,10/1/2025,Copenhagen,Home,2,0,Win,3,29500
+3,Qarabag FK,2025/26,Champions League,10/22/2025,Athletic Club,Away,1,3,Loss,0,41000
+4,Qarabag FK,2025/26,Champions League,11/5/2025,Chelsea,Home,2,2,Draw,1,31200
+5,Qarabag FK,2025/26,Champions League,11/26/2025,Napoli,Away,0,2,Loss,0,45000
+6,Qarabag FK,2025/26,Champions League,12/10/2025,Ajax,Home,2,4,Loss,0,28700
+7,Qarabag FK,2025/26,Champions League,1/21/2026,Eintracht Frankfurt,Home,3,2,Win,3,26600
+8,Qarabag FK,2025/26,Champions League,1/29/2026,Liverpool,Away,0,6,Loss,0,54000
